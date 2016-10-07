@@ -1,4 +1,4 @@
-from random import *
+from random import * # a library that helps in selecting a random number or string
 print( 'Hangman ')
 words= 'ant bat cat rat mat are orb new net not'.split()
 def andword():
@@ -32,7 +32,7 @@ def checkguess(g,blanks,ctr,incorrect,correct,incorrect_choices):
             
             
     
-HANGMAN= [''' '''
+HANGMAN= [''' ''' #a list of hangman pics
           ,'''
    0   ''','''
    0
