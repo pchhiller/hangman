@@ -1,3 +1,4 @@
+# TMW
 from random import * # a library that helps in selecting a random number or string
 print( 'Hangman ')
 words= 'ant bat cat rat mat are orb new net not'.split()
